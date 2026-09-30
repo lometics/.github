@@ -7,3 +7,7 @@ Lometics GmbH is an independent software studio in Switzerland. We build our own
 - **Leaving stays easy.** Open formats and exportable data matter. Lock-in is a design decision; we choose the other one.
 
 No ads. No business model built on your data. No account where one is not needed.
+
+# Get in touch
+Questions about one of the apps? Write to [info@lometics.com](mailto:info@lometics.com) or visit [lometics.com](https://www.lometics.com).
+
