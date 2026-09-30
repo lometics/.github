@@ -1,8 +1,4 @@
-# Lometics
-
-**Software you own.**
-
-Lometics GmbH is an independent software studio in St. Gallen, Switzerland. We build our own focused products from the interface down to the underlying systems—simple tools that stay useful, dependable, and yours.
+Lometics GmbH is an independent software studio in Switzerland. We build our own focused products from the interface down to the underlying systems—simple tools that stay useful, dependable, and yours.
 
 ## Our principles
 
